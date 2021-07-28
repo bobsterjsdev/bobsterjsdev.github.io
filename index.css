@@ -1,0 +1,21 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.social-media-link:link,.social-media-link:visited,.social-media-link:hover,.social-media-link:active {
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    color: purple;
+}
+
+.game-link:link,.game-link:visited,.game-link:hover,.game-link:active {
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    color: red;
+}
+
+a:link,a:visited,a:hover,a:active {
+    text-decoration: none;
+    font-family: 'Rubik', sans-serif;
+    color: green;
+  }
